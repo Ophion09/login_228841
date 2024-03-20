@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220727668127",
+    "project_id": "login-kotlin-228841",
+    "storage_bucket": "login-kotlin-228841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220727668127:android:e0dd91fa4f33a3ff6f21aa",
+        "android_client_info": {
+          "package_name": "fernando.hernandez.login_228841"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADV1GSJiwKeHEPKhfbaINve3dzM44XcuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
